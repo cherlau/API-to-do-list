@@ -148,5 +148,4 @@ const loadTasks = async () => {
 }
 
 addForm.addEventListener('submit', addTask)
-
 loadTasks()
